@@ -1,1 +1,22 @@
-collab files
+Bio-nic Reading 
+
+Bionic Reading is a new method facilitating the reading process by guiding the eyes,
+through text with artificial fixation points.
+As a result, the reader is only focusing on the highlighted initial letters 
+and lets the brain center complete the word. 
+In a digital world dominated by shallow forms of reading,
+Bionic Reading aims to encourage a more in-depth reading.
+
+How to use:
+
+This is a colab notebook.
+Download the .pynb file and run it using colab or any jupyter environment.
+Upload any .txt file and run all.
+It will return a bionic script which you can use.
+
+Next update:
+
+Working on converting this into an API and open-sourcing the code.
+
+
+
